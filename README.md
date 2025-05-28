@@ -18,4 +18,5 @@ This is a secure, console-based implementation of a generalized non-transitive d
 ## How to Run
 
 ```bash
+npm install
 node main.js [DICE_SET]
